@@ -2,7 +2,7 @@
 import React from "react";
 import { useState } from "react";
 import Image from "next/image";
-import { Menu, X, BarChart, Award, FileText, Divide } from "lucide-react";
+import { Menu, X, BarChart, Award, FileText } from "lucide-react";
 import Link from "next/link";
 
 const Sidebar = () => {

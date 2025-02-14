@@ -207,7 +207,7 @@ const Dashboard = () => {
               </div>
             )}
           </section>
-          <section className="rightui  flex flex-col relative top-4">
+          <section className="rightui  flex flex-col relative top-4 -z-10">
             {/* SKILL PROGRESSBAR */}
             <div className="border p-4 mt-4 rounded-lg shadow-md h-full ">
               <h3 className="font-semibold mb-9">Skill Progress</h3>
