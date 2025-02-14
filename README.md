@@ -1,5 +1,6 @@
 # Whatbytes assignment
-
+# deployed link
+# https://whatbytes-blue.vercel.app/
 
 # How to Start
 
